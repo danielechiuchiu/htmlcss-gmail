@@ -1,0 +1,72 @@
+body {
+   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTf0VChbmO3rHKbsiHBEaksS24d1vvU-8_V6dgDC9Qs59chuHkb&usqp=CAU);
+   background-repeat:no-repeat;
+   background-size: cover;
+}
+.titolo{
+  color: grey;
+}
+input{
+  width: 50%;
+}
+.dot {
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  background-color: gray;
+  color: white;
+  border-radius: 50%;
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+}
+.text{
+  line-height: 50px;
+  font-size: 120%;
+  color: red;
+}
+.z {
+  color: black;
+  font-size: 150%;
+  margin-left: 400px;
+}
+.a {
+  border: solid;
+  border-color: gray;
+  border-width: 50%;
+  width: 100%;
+}
+.b {
+  border: solid;
+  border-color: gray;
+  border-width: 50%;
+  width: 100%;
+}
+.c {
+  border: solid;
+  border-color: gray;
+  border-width: 50%;
+  width: 100%;
+}
+.d {
+  border: solid;
+  border-color: gray;
+  border-width: 50%;
+  width: 100%;
+}
+.y {
+  margin-left: 150px;
+}
+div{
+  margin-left: 150px;
+}
+.h{
+  margin-right: 150px;
+  margin-left: 150px;
+}
+button:hover {
+  background-color: white;
+}
+span{
+  color: grey;
+}
